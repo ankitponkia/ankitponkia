@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-![](https://komarev.com/ghpvc/?username=ankitponkia&color=dc143c)
-
-![gitartwork](gitartwork.svg)
